@@ -1,0 +1,24 @@
+name: form1_expositootinraul_s2am
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.1.2 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_form_builder: ^9.1.1
+  form_builder_validators: ^9.0.0-dev.1
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.18.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
